@@ -7,7 +7,7 @@ namespace RathunterGame
 {
     public class GameManager
     {
-        private const int MaxSpawns = 30; // Maximum number of total animals
+        private const int MaxSpawns = 50; // Maximum number of total animals
 
         private List<GameObject> _gameObjects;
         private bool _enableSpawns;
