@@ -2,6 +2,6 @@
 
 A mini shooter game. 
 
-Hit the rats, skip the hamsters.
+Target the rats, avoid the hamsters and infested rats.
 
 ![](src/Assets/rathunter.png)
